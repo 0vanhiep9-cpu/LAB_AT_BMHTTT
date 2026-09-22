@@ -3,11 +3,11 @@ LAB3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thôn
 
 1. Thông tin sinh viên
 
-Họ và tên:Trần Văn Hiệp
-MSSV: 1150080051
-Tên học phần: Thực hành An toàn Hệ thống Thông tin
-Tên bài: Lab 3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
-Năm học: 2026–2027
+* Họ và tên:Trần Văn Hiệp
+* MSSV: 1150080051
+* Tên học phần: Thực hành An toàn Hệ thống Thông tin
+* Tên bài: Lab 3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
+* Năm học: 2026–2027
 
 2. Môi trường thực hành
 
