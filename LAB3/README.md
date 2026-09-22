@@ -1,15 +1,15 @@
 
-# LAB3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
+LAB3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
 
-## 1. Thông tin sinh viên
+1. Thông tin sinh viên
 
-* **Họ và tên:** [HỌ TÊN]
-* **MSSV:** [MSSV]
-* **Tên học phần:** Thực hành An toàn Hệ thống Thông tin
-* **Tên bài:** Lab 3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
-* **Năm học:** 2026–2027
+Họ và tên:Trần Văn Hiệp
+MSSV: 1150080051
+Tên học phần: Thực hành An toàn Hệ thống Thông tin
+Tên bài: Lab 3 – Nhận diện và ứng phó các mối đe dọa đến an toàn thông tin
+Năm học: 2026–2027
 
-## 2. Môi trường thực hành
+2. Môi trường thực hành
 
 | Thành phần          | Phiên bản / cấu hình         |
 | ------------------- | ---------------------------- |
@@ -27,7 +27,7 @@
 | Wireshark           | 4.6.8                        |
 | Python              | 3.14.7                       |
 
-## 3. Mục tiêu
+3. Mục tiêu
 
 Bài thực hành nhằm:
 
@@ -38,9 +38,9 @@ Bài thực hành nhằm:
 * Thực hiện quy trình Baseline → Observe → Detect → Contain → Recover → Verify.
 * Lưu trữ bằng chứng, log và giá trị SHA-256 để kiểm tra tính toàn vẹn.
 
-## 4. Chuẩn bị môi trường
+4. Chuẩn bị môi trường
 
-### 4.1. Thư mục bài lab
+4.1. Thư mục bài lab
 
 Thư mục làm việc:
 
