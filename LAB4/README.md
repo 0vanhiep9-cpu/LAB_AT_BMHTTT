@@ -6,7 +6,6 @@
 * **MSSV:** 1150050051
 * **Tên Lab:** Lab 4 — Khảo sát và đánh giá bề mặt mạng bằng Nmap
 
----
 
 ## 2. Môi trường thực hành
 
@@ -33,7 +32,6 @@ Sử dụng mạng **Host-only** của VMware để cô lập môi trường lab
 
 Môi trường được thiết lập trong mạng nội bộ Host-only, không thực hiện quét các hệ thống bên ngoài phòng lab.
 
----
 
 ## 3. Cách dựng môi trường
 
