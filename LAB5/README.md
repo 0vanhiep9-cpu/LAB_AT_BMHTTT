@@ -6,7 +6,7 @@
 | --- | --- |
 | Họ và tên | `Trần Văn Hiệp` |
 | MSSV | `1150080051` |
-| Lớp / Học phần | `11_ĐH_THMT – An toàn hệ thống thông tin>` |
+| Lớp / Học phần | `11_ĐH_THMT – An toàn hệ thống thông tin` |
 | Tên lab | Thực hành an toàn hệ thống thông tin – Thiết lập mô hình tường lửa pfSense |
 | Ngày thực hiện | 06/10/2026 |
 
